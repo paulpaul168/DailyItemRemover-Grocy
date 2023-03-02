@@ -1,0 +1,5 @@
+{
+    "grocy_url": "http://example.com/grocy",
+    "api_key": "your-api-key-here",
+    "product_ids": [1, 2, 3]
+}
