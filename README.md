@@ -1,5 +1,4 @@
-# DailyItemRemover-Grocy
-# Setting up a daily cronjob for automatic product removal in grocy
+# DailyItemRemover-Grocy - Setting up a daily cronjob for automatic product removal in grocy
 ## Purpose
 
 This Python script allows you to automatically remove one or more products from your grocy instance every day. You can set up a daily cronjob to run the script at a specific time.
